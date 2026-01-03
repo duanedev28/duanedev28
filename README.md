@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Desktop, Mobile, and Web Applications**
 
-- 🌱 I’m currently learning **technologies (Azure, Blazor, and Vue)**
+- 🌱 I’m currently learning **technologies (Azure, Angular, and Vue)**
 
 - 💬 Ask me about **.NET, ASP.NET, Azure**
 
